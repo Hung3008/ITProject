@@ -1,7 +1,7 @@
 Dong thu nhat mahy tinh 1
-<<<<<<< HEAD
+
 
 Dong thu 3 tren may tinh 1
-=======
+
 Dong thu hai may tinh 2
->>>>>>> b321e3327196573f7b43218612428d22b03d21bf
+
